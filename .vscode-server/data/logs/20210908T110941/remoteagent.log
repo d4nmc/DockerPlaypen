@@ -1,0 +1,28 @@
+[2021-09-08 11:09:41.715] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-09-08 11:09:41.715] [remoteagent] [info] Extension host agent started.
+[2021-09-08 11:09:41.849] [remoteagent] [info] [127.0.0.1][09c886f8][ManagementConnection] New connection established.
+[2021-09-08 11:09:41.915] [remoteagent] [info] [127.0.0.1][e2931899][ExtensionHostConnection] New connection established.
+[2021-09-08 11:09:41.926] [remoteagent] [info] [127.0.0.1][e2931899][ExtensionHostConnection] <50503> Launched Extension Host Process.
+[2021-09-08 11:11:47.440] [remoteagent] [info] [127.0.0.1][09c886f8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-09-08 11:11:48.458] [remoteagent] [info] [127.0.0.1][e2931899][ExtensionHostConnection] <50503> Extension Host Process exited with code: 0, signal: null.
+[2021-09-08 11:11:48.458] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-09-08 11:12:35.603] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-09-08 11:12:35.603] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-09-08 11:12:35.787] [remoteagent] [info] [127.0.0.1][e7104bbf][ManagementConnection] New connection established.
+[2021-09-08 11:12:35.862] [remoteagent] [info] [127.0.0.1][51aea10e][ExtensionHostConnection] New connection established.
+[2021-09-08 11:12:35.869] [remoteagent] [info] [127.0.0.1][51aea10e][ExtensionHostConnection] <51045> Launched Extension Host Process.
+[2021-09-08 11:17:35.605] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-09-08 16:01:52.515] [remoteagent] [info] [127.0.0.1][e7104bbf][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-09-08 19:01:48.298] [remoteagent] [info] [127.0.0.1][51aea10e][ExtensionHostConnection] <51045> Extension Host Process exited with code: 0, signal: null.
+[2021-09-08 19:01:48.299] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-09-08 19:01:52.516] [remoteagent] [info] [127.0.0.1][e7104bbf][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2021-09-08 19:06:48.299] [remoteagent] [info] Last EH closed, shutting down

@@ -1,0 +1,18 @@
+[2021-09-08 08:13:09.002] [exthost] [info] extension host started
+[2021-09-08 08:13:09.010] [exthost] [info] Lock '/home/d4nmc/.vscode-server/data/User/workspaceStorage/0ae1373cd0237c9f3304613e3a4f71a5/vscode.lock': Lock acquired.
+[2021-09-08 08:13:09.109] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-08 08:13:09.109] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/d4nmc/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/debug-auto-launch/dist/extension
+[2021-09-08 08:13:09.114] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-08 08:13:09.114] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/d4nmc/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/git/dist/main
+[2021-09-08 08:13:09.303] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-08 08:13:09.303] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/d4nmc/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/github/dist/extension.js
+[2021-09-08 08:13:09.422] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-08 08:13:09.422] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/d4nmc/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-08 08:13:09.440] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-08 08:13:09.440] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/d4nmc/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-08 08:13:09.444] [exthost] [info] eager extensions activated
+[2021-09-08 08:13:09.445] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-08 08:13:09.445] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/d4nmc/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-08 09:10:42.518] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-09-08 09:10:42.519] [exthost] [info] Lock '/home/d4nmc/.vscode-server/data/User/workspaceStorage/0ae1373cd0237c9f3304613e3a4f71a5/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-09-08 09:10:43.527] [exthost] [info] exiting with code 0

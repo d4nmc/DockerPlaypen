@@ -1,0 +1,38 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 37713
+
+[11:09:41] Extension host agent started.
+[11:09:41] [127.0.0.1][09c886f8][ManagementConnection] New connection established.
+[11:09:41] [127.0.0.1][e2931899][ExtensionHostConnection] New connection established.
+[11:09:41] [127.0.0.1][e2931899][ExtensionHostConnection] <50503> Launched Extension Host Process.
+[11:11:47] [127.0.0.1][09c886f8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[11:11:48] [127.0.0.1][e2931899][ExtensionHostConnection] <50503> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[11:11:48] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[11:12:35] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[11:12:35] Cancelling previous shutdown timeout
+[11:12:35] [127.0.0.1][e7104bbf][ManagementConnection] New connection established.
+[11:12:35] [127.0.0.1][51aea10e][ExtensionHostConnection] New connection established.
+[11:12:35] [127.0.0.1][51aea10e][ExtensionHostConnection] <51045> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[11:17:35] New EH opened, aborting shutdown
+[16:01:52] [127.0.0.1][e7104bbf][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/d4nmc/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+[19:01:48] [127.0.0.1][51aea10e][ExtensionHostConnection] <51045> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[19:01:48] Last EH closed, waiting before shutting down
+[19:01:52] [127.0.0.1][e7104bbf][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+Last EH closed, shutting down
+[19:06:48] Last EH closed, shutting down
